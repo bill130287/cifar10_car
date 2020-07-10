@@ -26,4 +26,5 @@ for i in range(100):
   true_flag = y_test[i]-pred
   if(true_flag == 0):
     correct = correct+1
-    print ('acc=', b / 100)
+
+ print ('acc=', correct / 100)
