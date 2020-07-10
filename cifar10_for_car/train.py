@@ -71,7 +71,7 @@ plt.title('Accuracy')
 plt.savefig('Keras Cifar10 model.png', dpi=300, format='png')
 plt.show()
 plt.close()
-print('Result saved into Keras Mnist model.png')
+print('Result saved into Keras Cifar-10 model.png')
 
 '''file download'''
 from google.colab import files
