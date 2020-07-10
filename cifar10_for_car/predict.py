@@ -27,4 +27,4 @@ for i in range(100):
   if(true_flag == 0):
     correct = correct+1
 
- print ('acc=', correct / 100)
+print ('acc=', correct / 100)
